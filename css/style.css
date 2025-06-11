@@ -63,7 +63,7 @@ nav.navbar.navbar-expand-lg{
 }
 /* Banner-section */
 section.banner {
-    background: url("../images/banner-img.png") center center no-repeat;
+    background: url("../images/Banner-img.png") center center no-repeat;
     background-size: cover;
     padding: 80px 0px 242px 160px;
 }
